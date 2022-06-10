@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170890223007",
+    "project_id": "coretanapps",
+    "storage_bucket": "coretanapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170890223007:android:8d7096324ec76c24d471aa",
+        "android_client_info": {
+          "package_name": "com.example.coretanapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170890223007-85uq5d37b8or8re8bpgjfp1bqnnb0vuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvbX-Ctooj6rxaRaxehAa5JkBv4CqVLyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170890223007-85uq5d37b8or8re8bpgjfp1bqnnb0vuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
